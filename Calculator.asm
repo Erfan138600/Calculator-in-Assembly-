@@ -1,6 +1,6 @@
 
 name "calc2"
-
+; erfan alikhani - erfan-web.ir :)
 ; command prompt based simple calculator (+,-,*,/) for 8086.
 ; example of calculation:
 ; input 1 <- number:   10 
